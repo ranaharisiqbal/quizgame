@@ -29,20 +29,20 @@ let questions = [
         answer: 1,
     },
     {
-        question: "What percent of American adults believe that chocolate milk comes from brown cows?",
-        choice1: "20%",
-        choice2: "18%",
-        choice3: "7%",
-        choice4: "33%",
+        question: "what is the capital of pakistan",
+        choice1: "karachi",
+        choice2: "multan",
+        choice3: "islamabad",
+        choice4: "lahore",
         answer: 3,
     },
     {
-        question: "Approximately what percent of U.S. power outages are caused by squirrels?",
-        choice1: "10-20%",
-        choice2: "5-10%",
-        choice3: "15-20%",
-        choice4: "30%-40%",
-        answer: 1,
+        question: "who is the president of pakistan",
+        choice1: "Asad Qaiser",
+        choice2: "Arif Alvi",
+        choice3: "Shafqat Mahmood",
+        choice4: "Usman Buzdar",
+        answer: 2,
     }
 ]
 
